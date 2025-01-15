@@ -1,7 +1,7 @@
 # Install Fabric Hyperledger 2.5.1 and Set Up Hyperledger Explorer
 
 This guide provides step-by-step instructions for installing Fabric Hyperledger 2.5.1 and setting up Hyperledger Explorer to monitor your network.
-[Fabric 2.5 Documentation](src/1.png)
+[Fabric 2.5 Documentation](/src/1.png)
 ## Prerequisites
 
 - **Node.js**: Ensure you have Node.js version `v16.14.1` installed. This version works seamlessly as tested.
