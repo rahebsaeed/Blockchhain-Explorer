@@ -64,13 +64,6 @@ This guide provides step-by-step instructions for installing Fabric Hyperledger 
 1. **Follow the Explorer Installation Guide**:
    Refer to the official documentation at [Hyperledger Explorer GitHub](https://github.com/hyperledger-labs/blockchain-explorer) and follow the steps relevant to your Fabric version.
 
-2. **Run Hyperledger Explorer**:
-   - Ensure your Fabric network is running.
-   - Navigate to the `explorer` directory and execute:
-     ```bash
-     docker-compose up -d
-     ```
-
 **Note**: The `explorer` directory should be in the same directory where you installed Fabric Hyperledger.
 
 ## Troubleshooting
